@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, this is one1pk 👋
+I'm an undergrad student in Software Systems.
 
 <!--
 **one1pk/one1pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
