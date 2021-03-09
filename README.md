@@ -1,5 +1,5 @@
 ### Hi there, this is one1pk 👋
-I'm an undergrad student in Software Systems. 
+undergrad student in Software Systems. 
 tbc...
 
 <!--
