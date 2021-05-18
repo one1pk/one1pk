@@ -1,6 +1,15 @@
-### Hi there, this is one1pk 👋
-undergrad student in Software Systems. 
-tbc...
+### Hi there, this is Punar 👋
+I am an undergrad student in Software Systems. I just completed my first Android app in Java - check it out on my profile!
+
+I am currently...
+🌱 learning about database systems and operating systems
+🌠 reading up on all things quantum
+🎞️ exploring short film editing
+
+Didn't find me at my desk? I might be...
+⛰️ hiking to the mountain's peak
+🚴‍♀️ biking in the neighborhood
+🎶 playing the dilruba
 
 <!--
 **one1pk/one1pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
