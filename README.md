@@ -2,7 +2,7 @@
 I am an undergrad student in Software Systems. I just completed my first Android app in Java - check it out on my profile!
 
 I am currently...
-- 🌱 learning about database systems and operating systems using C
+- 🌱 learning about Database Systems and Operating Systems using C
 - 🌠 reading up on all things quantum
 - 🎞️ exploring short film editing
 
