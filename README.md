@@ -1,5 +1,5 @@
 ### Hi there, this is Punar 👋
-I am an undergrad student in Software Systems. I just completed my first Android app in Java - check it out on my profile!
+I am an undergrad student in Software Systems at SFU. 
 
 I am currently...
 - 🌱 learning about Database Systems and Operating Systems using C
