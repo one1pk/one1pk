@@ -3,7 +3,6 @@ I am an undergrad student in Software Systems at SFU.
 
 I am currently...
 - 🌱 learning about Database Systems and Operating Systems using C
-- 🌠 reading up on all things quantum
 - 🎞️ exploring video editing
 
 Didn't find me at my desk? I might be...
