@@ -1,14 +1,14 @@
 ### Hi there, this is Punar 👋
-I am an undergrad student in Software Systems at SFU. 
+I am an undergrad student in Software Systems. 
 
 I am currently...
-- 🌱 learning about Database Systems and Operating Systems using C
+- 🌱 learning about Database Systems using SQL and Operating Systems using C
 - 🎞️ exploring video editing
 
 Didn't find me at my desk? I might be...
 - ⛰️ hiking to the mountain's peak
 - 🚴‍♀️ biking in the neighborhood
-- 🎶 playing the dilruba
+- 🎶 playing the strings
 
 <!--
 **one1pk/one1pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
